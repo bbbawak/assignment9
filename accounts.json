@@ -1,0 +1,108 @@
+[
+  {
+    "OwnerName": "John Doe",
+    "CurrentBalance": 7363.78,
+    "MonthOpened": "April",
+    "Type": "savings",
+    "MonthlyInterestRate": 0.05
+  },
+  {
+    "OwnerName": "Jane Smith",
+    "CurrentBalance": 2721.42,
+    "MonthOpened": "August",
+    "Type": "checking",
+    "MonthlyInterestRate": 0.07
+  },
+  {
+    "OwnerName": "Mike Johnson",
+    "CurrentBalance": 89312.12,
+    "MonthOpened": "February",
+    "Type": "money market",
+    "MonthlyInterestRate": 0.08
+  },
+  {
+    "OwnerName": "Sarah Williams",
+    "CurrentBalance": 6432.67,
+    "MonthOpened": "June",
+    "Type": "savings",
+    "MonthlyInterestRate": 0.06
+  },
+  {
+    "OwnerName": "David Brown",
+    "CurrentBalance": 12398.29,
+    "MonthOpened": "October",
+    "Type": "checking",
+    "MonthlyInterestRate": 0.04
+  },
+  {
+    "OwnerName": "Emily Davis",
+    "CurrentBalance": 7813.55,
+    "MonthOpened": "December",
+    "Type": "money market",
+    "MonthlyInterestRate": 0.09
+  },
+  {
+    "OwnerName": "Michael Wilson",
+    "CurrentBalance": 5146.77,
+    "MonthOpened": "September",
+    "Type": "savings",
+    "MonthlyInterestRate": 0.05
+  },
+  {
+    "OwnerName": "Olivia Taylor",
+    "CurrentBalance": 90082.16,
+    "MonthOpened": "May",
+    "Type": "checking",
+    "MonthlyInterestRate": 0.07
+  },
+  {
+    "OwnerName": "James Anderson",
+    "CurrentBalance": 32168.97,
+    "MonthOpened": "January",
+    "Type": "money market",
+    "MonthlyInterestRate": 0.08
+  },
+  {
+    "OwnerName": "Emma Lee",
+    "CurrentBalance": 42257.85,
+    "MonthOpened": "November",
+    "Type": "savings",
+    "MonthlyInterestRate": 0.06
+  },
+  {
+    "OwnerName": "Noah Martinez",
+    "CurrentBalance": 7439.25,
+    "MonthOpened": "July",
+    "Type": "checking",
+    "MonthlyInterestRate": 0.04
+  },
+  {
+    "OwnerName": "Ava Garcia",
+    "CurrentBalance": 3956.88,
+    "MonthOpened": "March",
+    "Type": "money market",
+    "MonthlyInterestRate": 0.09
+  },
+  {
+    "OwnerName": "Liam Hernandez",
+    "CurrentBalance": 32000.1,
+    "MonthOpened": "October",
+    "Type": "savings",
+    "MonthlyInterestRate": 0.05
+  },
+  {
+    "OwnerName": "Sophia Smith",
+    "CurrentBalance": 7092.44,
+    "MonthOpened": "February",
+    "Type": "checking",
+    "MonthlyInterestRate": 0.07
+  },
+  {
+    "OwnerName": "Mia Davis",
+    "CurrentBalance": 14752.19,
+    "MonthOpened": "December",
+    "Type": "money market",
+    "MonthlyInterestRate": 0.09
+  }
+]
+
